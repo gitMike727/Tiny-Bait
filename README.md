@@ -1,2 +1,4 @@
-# Tiny-Bait Game Design Document
-2D Cozy Fishing Game
+# Game Design Document
+<b>Project Name:</b> Tiny-Bait
+
+
