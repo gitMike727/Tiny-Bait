@@ -63,7 +63,22 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li><i>Visual Style:</i> 2D Pixel art with a focus on soft colors, charming characters, and tropical nature.</li>
 </ul>
 
+
+
 </p>
+
+
+level/map
+music
+sound
+art
+Features
+Rules
+characters
+Milestone Progression
+Player movement
+UI
+Fish
 
 
 
