@@ -1,6 +1,8 @@
 # Cozy Fishing Game: Game Design Document
 
+<h5 align = left>
 <u><i>1.Introduction</i></u>
+</h5>
 
 <p>
     <b>Project Title:</b> Tiny Bait
@@ -27,7 +29,7 @@
 fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <br>
-    <b>Core Gameplay Loop:</b> 
+    <b>Gameplay Loop:</b> 
 <br>
 <ul>
     <li>Acquire fish and fishing gear.</li>
@@ -36,8 +38,12 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li>Spend gold to upgrade fishing rod and other fishing gear.</li>
     <li>Upgraded rods and bait can catch higher quality fish.</li>
 </ul>
-
 </p>
+
+<u><i>3.Core Gameplay</i></u>
+
+
+
 
 
 
