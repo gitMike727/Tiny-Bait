@@ -22,7 +22,10 @@
     <b>Platform:</b> PC(Steam), Mobile (iOS, Android)
 </p>
 
+<h2 align = left>
 <u><i>2.Executive Summary</i></u>
+</h2>
+
 
 <p>
     <b>Logline:</b> A young apprentice eager to learn the ways of a legendary master 
@@ -40,7 +43,10 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </ul>
 </p>
 
+<h2 align = left>
 <u><i>3.Core Gameplay</i></u>
+</h2>
+
 
 
 
