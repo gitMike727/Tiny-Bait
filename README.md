@@ -75,19 +75,60 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li><i>Level up system:</i> Fishing and catching fish will level up the character and will unlock new fishing rods and bait ingredients.</li>
     <li><i>Equipment system:</i> The character can equip fishing gear (fishing rods, lures, lines, bait types).
     </li>
+    <li><i>Achievement System:</i> Unlockable achievements for completing various challenges and milestones.</li>
 </ul>
 </p>
 
+<h2 align = left>
+<u><i>4.Milestone Progression</i></u>
+</h2>
+
+<p>
+<i>February 13:</i> Game Design Document
+<br>
+<i>March 13:</i> Project Pitch
+<br>
+<i>April 17:</i> Prototype Presentation
+<br>
+<i>May 5:</i> Final Game
+</p>
+<br>
+
+<h2 align = left>
+<u><i>5.Characters</i></u>
+</h2>
+
+<p>
+<b>Main Character:</b> <i>Jack the Apprentice</i>
+<br>
+<b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
+<br>
+<br>
+<b>Player Movement:</b> 
+<ul>
+    <li>W / Up Arrow / Spacebar</li>
+    <li>A / Left Arrow </li>
+    <li>S / Down Arrow </li>
+    <li>D / Right Arrow </li>
+</ul>
+
+<b>Player Interaction:</b> 
+<ul>
+    <li>Left Click: Interact</li>
+    <li>Left Click: Interact</li>
+    
+    
+</ul>
+
+<br>
+
+</p>
 
 level/map
 music
 sound
 art
 Features
-Rules
-characters
-Milestone Progression
-Player movement
 UI
 Fish
 
