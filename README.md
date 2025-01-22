@@ -134,11 +134,13 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <h2 align = left>
 <u><i>7.Game Level & Maps</i></u>
 </h2>
-
+<p>
 Island
+<br>
 Ocean
+<br>
 Lakes
-
+</p>
 <h2 align = left>
 <u><i>8.User Interface Designs</i></u>
 </h2>
@@ -150,12 +152,15 @@ Lakes
 <h2 align = left>
 <u><i>10.Fishing Equipment</i></u>
 </h2>
-
+<p>
 Fishing Rods
+<br>
 Fishing Lines
+<br>
 Fishing Lures
+<br>
 Fishing Tackle
-
+</p>
 <h2 align = left>
 <u><i>11.Game Music & Sound FX</i></u>
 </h2>
@@ -163,10 +168,13 @@ Fishing Tackle
 <h2 align = left>
 <u><i>12.Enhanced Features</i></u>
 </h2>
-
+<p>
 Dialogoue
+<br>
 Vehicle:Boat
+<br>
 Character Customization
+</p>
 
 </p>
 
