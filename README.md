@@ -150,13 +150,21 @@ Title Menu
 <br>
 Main Menu
 <br>
-
+Inventory Menu
+<br>
+Equipment Menu
+<br>
+Pause Menu
 
 </p>
 
 <h2 align = left>
 <u><i>9.Fish Species</i></u>
 </h2>
+<img src= https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+<p>
+
+</p>
 
 <h2 align = left>
 <u><i>10.Fishing Equipment</i></u>
@@ -180,7 +188,7 @@ Fishing Tackle
 <p>
 Dialogoue
 <br>
-Vehicle:Boat
+Vehicle: Boat
 <br>
 Character Customization
 </p>
