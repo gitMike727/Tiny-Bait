@@ -1,8 +1,8 @@
 # Cozy Fishing Game: Game Design Document
 
-<h4 align = left>
+<h2 align = left>
 <u><i>1.Introduction</i></u>
-</h4>
+</h2>
 
 <p>
     <b>Project Title:</b> Tiny Bait
