@@ -15,7 +15,7 @@
 <ul>
     <li>Players seeking relaxation, stress relief, and a calming experience.</li>
     <li>Players interested in fishing, nature, and cozy aesthetics.</li>
-<   li>Casual gamers (13-35 years old).</li>
+    <li>Casual gamers (13-35 years old).</li>
 </ul>
     <b>Platform:</b> PC(Steam), Mobile (iOS, Android)
 </p>
