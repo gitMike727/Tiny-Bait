@@ -49,6 +49,20 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <u><i>3.Concepts</i></u>
 </h2>
 
+<p>
+<i>Main Character:</i>
+<br>
+<b>Jack, The Apprentice</b>
+<img src = https://file.garden/Z14ay7uwgmBSW3CE/Jack_The_Apprentice.png>
+
+<br>
+<br>
+
+<i>Legendary Master Fisherman:</i>
+<b>Kanto</b>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Kanto_Master_Fisherman.png">
+</p>
+
 <h2 align = left>
 <u><i>4.Core Gameplay</i></u>
 </h2>
