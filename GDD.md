@@ -22,6 +22,8 @@
 <b>Platform:</b> PC(Steam), Mobile (iOS, Android)
 </p>
 
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Title_Menu_with_Title_Concept.png">
+
 <h2 align = left>
 <u><i>2.Executive Summary</i></u>
 </h2>
