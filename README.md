@@ -7,3 +7,10 @@ Tools that I'm using for this project:
 <a href = "https://code.visualstudio.com/" > VS Code </a>
 <br>
 <a href = "https://visualstudio.microsoft.com/vs/"> Visual Studio 2022 </a>
+
+<br>
+<br>
+ <h1>Libraries in my programs:</h1>
+ <p>
+ SDL2
+ </p>
