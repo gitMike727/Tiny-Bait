@@ -161,8 +161,11 @@ Pause Menu
 <h2 align = left>
 <u><i>9.Fish Species</i></u>
 </h2>
-<img src= https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+
 <p>
+Parrot Fish
+<img src= https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+
 
 </p>
 
