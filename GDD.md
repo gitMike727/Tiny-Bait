@@ -118,8 +118,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <b>Player Interaction:</b> 
 <ul>
-    <li>Left Mouse Click: Interact</li>
-    <li>Right Mouse Click: Interact</li>
+    <li>Left Mouse Click: World Interaction</li>
+    <li>Right Mouse Click: Fishing</li>
 </ul>
 <br>
 
