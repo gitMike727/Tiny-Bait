@@ -164,8 +164,10 @@ Pause Menu
 
 <p>
 Parrot Fish
-<img src= https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
-
+<img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+<br>
+Mackerel
+<img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
 
 </p>
 
