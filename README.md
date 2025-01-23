@@ -12,5 +12,5 @@ Tools that I'm using for this project:
 <br>
  <h1>Libraries in my programs:</h1>
  <p>
- SDL2
+<a href = "https://www.libsdl.org/"> SDL2</a>
  </p>
