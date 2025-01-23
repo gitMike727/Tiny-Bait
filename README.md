@@ -1,0 +1,8 @@
+<h1>My First attempt at solo developing a 2D pixel cozy fishing game.</h1>
+
+Tools that I'm using for this project:
+<br>
+<a href = "https://www.spritefusion.com/editor" > Sprite Fusion </a>
+<br>
+<a href = "https://code.visualstudio.com/" > VS Code </a>
+
