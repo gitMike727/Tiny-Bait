@@ -165,7 +165,9 @@ Lakes
 <p>
 Title Menu
 <br>
-Main Menu
+Main Menu:
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Menu_Concept.png">
 <br>
 Inventory Menu
 <br>
