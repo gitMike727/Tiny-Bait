@@ -224,6 +224,21 @@ Fishing Tackle
 <u><i>11.Game Music & Sound FX</i></u>
 </h2>
 
+<p>
+Ambient Music:
+<br>
+<i>Droplets of dew</i> (From Zapsplat.com)
+<br>
+<i>Shanty Town</i> (By FoolBoyMedia)
+<br>
+<br>
+Sound FX: walking, fishing, achievements, casting rod, reeling in fish, 
+menu buttons.
+<br>
+
+
+</p>
+
 <h2 align = left>
 <u><i>12.Enhanced Features</i></u>
 </h2>
