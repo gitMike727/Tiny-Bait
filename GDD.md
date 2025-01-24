@@ -184,7 +184,7 @@ Pause Menu
 <p>
 Parrot Fish
 <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
-Atlantic Bass
+    Atlantic Bass
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
 <br>
 Mackerel
