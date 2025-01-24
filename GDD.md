@@ -184,10 +184,27 @@ Pause Menu
 <p>
 Parrot Fish
 <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+Atlantic Bass
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
 <br>
 Mackerel
 <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
-
+<br>
+Clown Fish
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png">
+<br>
+Cow Fish
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png">
+<br>
+Lion Fish
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png">
+<br>
+Tuna
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png">
+<br>
+Butterfly Fish
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png">
+<br>
 </p>
 
 <h2 align = left>
