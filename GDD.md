@@ -121,6 +121,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <p>
 <b>Main Character:</b> <i>Jack the Apprentice</i>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Jack_The_Apprentice_PLayer.png">
 <br>
 <b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
 <br>
@@ -213,6 +214,9 @@ Butterfly Fish
 </h2>
 <p>
 Fishing Rods
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_1.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_2.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_3.png">
 <br>
 Fishing Lines
 <br>

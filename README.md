@@ -11,6 +11,8 @@ Tools that I'm using for this project:
 <a href = "https://itch.io/"> Itch.io</a> (Game asset marketplace)
 <br>
 <a href = "https://filegarden.com/">File Garden</a> (Website where I stored image files for my concepts)
+<br>
+<a href = "https://pixlr.com/">Pixlr</a> (Image Editor)
 
 <br>
 <br>
