@@ -1,7 +1,9 @@
 # Cozy Fishing Game: Game Design Document
 
 <h2 align = left>
-<u><i>1.Introduction</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
+<u><i>1.Introduction</i></u> 
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -25,7 +27,9 @@
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Title_Menu_with_Title_Concept.png">
 
 <h2 align = left>
-<u><i>2.Executive Summary</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
+<u><i>2.Executive Summary</i></u> 
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 
@@ -46,7 +50,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>3.Concepts</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -65,7 +71,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>4.Core Gameplay</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -101,7 +109,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>5.Milestone Progression</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -116,7 +126,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>6.Characters</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -150,7 +162,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>7.Game Level & Maps</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
 Island
@@ -160,7 +174,9 @@ Ocean
 Lakes
 </p>
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>8.User Interface Designs</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -179,7 +195,9 @@ Pause Menu
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>9.Fish Species</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -210,7 +228,9 @@ Butterfly Fish
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>10.Fishing Equipment</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
 Fishing Rods
@@ -225,7 +245,9 @@ Fishing Lures
 Fishing Tackle
 </p>
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>11.Game Music & Sound FX</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
 <p>
@@ -244,7 +266,9 @@ menu buttons.
 </p>
 
 <h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>12.Enhanced Features</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
 Dialogoue
