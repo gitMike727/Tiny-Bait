@@ -235,7 +235,7 @@ Icons
     </td>
     <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png">
     </td>
-    <td></td>
+    <td>Axolotl <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Axolotl.png"></td>
 </tr>
 <tr>
     <td></td>
