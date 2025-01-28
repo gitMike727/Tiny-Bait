@@ -13,6 +13,10 @@ Tools that I'm using for this project:
 <a href = "https://filegarden.com/">File Garden</a> (Website where I stored image files for my concepts)
 <br>
 <a href = "https://pixlr.com/">Pixlr</a> (Image Editor)
+<br>
+<a href = "https://www.zapsplat.com/">Zapsplat</a> (Music source)
+<br>
+<a href = "https://freesound.org/">Freesound</a> (Music and SFX source)
 
 <br>
 <br>
