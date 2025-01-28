@@ -17,6 +17,8 @@ Tools that I'm using for this project:
 <a href = "https://www.zapsplat.com/">Zapsplat</a> (Music source)
 <br>
 <a href = "https://freesound.org/">Freesound</a> (Music and SFX source)
+<br>
+<a href = "https://www.fontspace.com/">FontSpace</a> (Custom fonts)
 
 <br>
 <br>

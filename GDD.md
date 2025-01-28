@@ -73,7 +73,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <i>Game Currency:</i> 
 <br>
 <b>Red Coin</b>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Single_Red_Coin_Screenshot.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Red_Coin.gif">
 
 
 
