@@ -182,6 +182,8 @@ Lakes
 <p>
 Title Menu
 <br>
+Pause Menu
+<br>
 Main Menu:
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Menu_Concept.png">
@@ -190,7 +192,10 @@ Inventory Menu
 <br>
 Equipment Menu
 <br>
-Pause Menu
+EXP & Leveling system
+<br>
+Icons
+
 
 </p>
 
@@ -248,15 +253,18 @@ Pause Menu
 </h2>
 <p>
 Fishing Rods
+<br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_1.png">
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_2.png">
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_3.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_4.png">
 <br>
-Fishing Lines
 <br>
-Fishing Lures
+Bobber
 <br>
-Fishing Tackle
+<img src ="https://file.garden/Z14ay7uwgmBSW3CE/Bobber_Set.png">
+
+
 </p>
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
