@@ -177,12 +177,15 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
-Island
+<i>Locations:</i>
 <br>
-Ocean
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Island_Level_Concept_1_With_location.png">
 <br>
-Lakes
+<i>Fishing Zones:</i>
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Fishing_Zones.png">
 </p>
+
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>8.User Interface Designs</i></u>
