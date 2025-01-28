@@ -200,32 +200,46 @@ Pause Menu
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
-<p>
-Parrot Fish
-<img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
-<br>
-Atlantic Bass
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
-<br>
-Mackerel
-<img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
-<br>
-Clown Fish
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png">
-<br>
-Cow Fish
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png">
-<br>
-Lion Fish
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png">
-<br>
-Tuna
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png">
-<br>
-Butterfly Fish
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png">
-<br>
-</p>
+<table>
+<tr>
+<th><font color ="Grey">Common</font></th>
+<th><font color ="Green">Rare</font></th>
+<th><font color ="Blue">Super Rare</font></th>
+<th><font color ="Purple">Mythic</font></th>
+<th><font color ="Orange">Ancient</font></th>
+</tr>
+<tr>
+    <td>Mackerel <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
+    </td>
+    <td>Tuna <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png">
+    </td>
+    <td>Cow Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png">
+    </td>
+    <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png">
+    </td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
+    </td>
+    <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png">
+    </td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png">
+    </td>
+    <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
+    </td>
+    <td></td>
+    <td></td>
+
+</tr>
+
+</table>
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
