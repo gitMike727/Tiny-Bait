@@ -69,11 +69,19 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Kanto</b>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Kanto_Master_Fisherman.png">
 </p>
+<br>
+<i>Game Currency:</i> 
+<br>
+<b>Red Coin</b>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Single_Red_Coin_Screenshot.png">
+
+
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>4.Core Gameplay</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
+
 </h2>
 
 <p>
@@ -281,7 +289,7 @@ Ambient Music:
 <br>
 <br>
 Sound FX: walking, fishing, achievements, casting rod, reeling in fish, 
-menu buttons.
+menu buttons, ocean, birds, trees.
 <br>
 
 
