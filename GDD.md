@@ -218,6 +218,8 @@ Icons
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
+<h4><i>25 different species of fish</i></h4>
+
 <table>
 <tr>
 <th>$${\color{Gray}Common}$$</th>
@@ -227,35 +229,43 @@ Icons
 <th>$${\color{Orange}Mythic}$$</th>
 </tr>
 <tr>
-    <td>Mackerel <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
-    </td>
-    <td>Tuna <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png">
-    </td>
-    <td>Cow Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png">
-    </td>
-    <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png">
-    </td>
+    <td>Mackerel <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png ></td>
+    <td>Tuna <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png"></td>
+    <td>Cow Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png"></td>
+    <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png"></td>
     <td>Axolotl <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Axolotl.png"></td>
 </tr>
 <tr>
     <td>Shrimp <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Shrimp.png"></td>
-    <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
-    </td>
-    <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png">
-    </td>
-    <td></td>
-    <td></td>
+    <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png"></td>
+    <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png"></td>
+    <td>Angel Fish</td>
+    <td>Angler Fish</td>
 </tr>
 <tr>
     <td>Tilapia <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tilapia.png"></td>
-    <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png">
-    </td>
-    <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
-    </td>
-    <td></td>
-    <td></td>
+    <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png"></td>
+    <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png></td>
+    <td>King Salmon</td>
+    <td>Black Goldfish</td>
 
 </tr>
+<tr>
+<td>Crab <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Crab.png"></td>
+<td>Salmon <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Salmon.png"></td>
+<td>Koi <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Koi.png"></td>
+<td>Piranha</td>
+<td>Gray Shark</td>
+
+</tr>
+<tr>
+<td>Black Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Bass.png"></td>
+<td>Pufferfish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Pufferfish.png"></td>
+<td>Octopus <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Octopus.png"></td>
+<td>Eel</td>
+<td>Blue Lobster</td>
+</tr>
+
 
 </table>
 
@@ -265,15 +275,22 @@ Icons
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
-Fishing Rods
+<i>Fishing Rods:</i>
 <br>
+Wooden Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_1.png">
+<br>
+Iron Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_2.png">
+<br>
+Gold Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_3.png">
+<br>
+Diamond Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_4.png">
 <br>
 <br>
-Bobber
+<i>Bobber:</i>
 <br>
 <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Bobber_Set.png">
 
