@@ -76,7 +76,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Red Coin</b>
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Red_Coin.gif">
-(Obtain this from selling fish)
+<li>Obtain this game currenct by catching fish and selling it to the fish market.</li>
+<li>Use this currency to buy fishing rods and bobbers.</li>
 
 
 
