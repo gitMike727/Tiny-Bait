@@ -238,7 +238,7 @@ Icons
     <td>Axolotl <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Axolotl.png"></td>
 </tr>
 <tr>
-    <td></td>
+    <td>Shrimp <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Shrimp.png"></td>
     <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png">
     </td>
     <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png">
@@ -247,7 +247,7 @@ Icons
     <td></td>
 </tr>
 <tr>
-    <td></td>
+    <td>Tilapia <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tilapia.png"></td>
     <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png">
     </td>
     <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png>
