@@ -220,11 +220,11 @@ Icons
 
 <table>
 <tr>
-<th>Common</th>
+<th>$${\color{Gray}Common}$$</th>
 <th>$${\color{Green}Rare}$$</th>
-<th><font color ="Blue">Super Rare</font></th>
-<th><font color ="Purple">Mythic</font></th>
-<th><font color ="Orange">Ancient</font></th>
+<th>$${\color{Blue}Unique}$$</th>
+<th>$${\color{Purple}Elite}$$</th>
+<th>$${\color{Orange}Mythic}$$</th>
 </tr>
 <tr>
     <td>Mackerel <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png >
