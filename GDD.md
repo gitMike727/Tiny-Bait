@@ -240,31 +240,31 @@ Icons
     <td>Shrimp <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Shrimp.png"></td>
     <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png"></td>
     <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png"></td>
-    <td>Angel Fish</td>
-    <td>Angler Fish</td>
+    <td>Angel Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/AngelFish.png"></td>
+    <td>Angler Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Anglerfish.png"></td>
 </tr>
 <tr>
     <td>Tilapia <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tilapia.png"></td>
     <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png"></td>
     <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png></td>
-    <td>King Salmon</td>
-    <td>Black Goldfish</td>
+    <td>King Salmon <img src = "https://file.garden/Z14ay7uwgmBSW3CE/King_Salmon.png"></td>
+    <td>Black Goldfish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Goldfish.png"></td>
 
 </tr>
 <tr>
 <td>Crab <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Crab.png"></td>
 <td>Salmon <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Salmon.png"></td>
 <td>Koi <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Koi.png"></td>
-<td>Piranha</td>
-<td>Gray Shark</td>
+<td>Piranha <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Piranha.png"></td>
+<td>Gray Shark <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Gray_Shark.png"></td>
 
 </tr>
 <tr>
 <td>Black Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Bass.png"></td>
 <td>Pufferfish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Pufferfish.png"></td>
 <td>Octopus <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Octopus.png"></td>
-<td>Eel</td>
-<td>Blue Lobster</td>
+<td>Eel <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Eel.png"></td>
+<td>Blue Lobster <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Blue_Lobster.png"></td>
 </tr>
 
 
