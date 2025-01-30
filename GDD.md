@@ -196,19 +196,18 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </h2>
 
 <p>
-Title Menu
-<br>
-Pause Menu
-<br>
 Main Menu:
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Menu_Concept.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Title_Menu_Concept.png">
+Pause Menu
 <br>
 Inventory Menu
 <br>
 Equipment Menu
 <br>
 EXP & Leveling system
+<br>
+In Game UI
 <br>
 Icons
 
@@ -280,6 +279,8 @@ Icons
 <p>
 <i>Fishing Rods:</i>
 <br>
+(The better the qaulity of the Rod, the higher quality fish you can catch.)
+<br>
 Wooden Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_1.png">
 <br>
@@ -294,6 +295,8 @@ Diamond Fishing Rod
 <br>
 <br>
 <i>Bobbers:</i>
+<br>
+(Bobbers help with catching higher quality fish if you can't afford a better Rod.)
 <br>
 Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png">
 <br>
