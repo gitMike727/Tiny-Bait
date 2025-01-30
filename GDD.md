@@ -209,7 +209,7 @@ Pause Menu:
 <br>
 Inventory & Equipment Menu:
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Inventory_Menu_Concept.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Inventory_Menu_Concept_2.png">
 
 
 
