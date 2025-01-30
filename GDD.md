@@ -221,7 +221,7 @@ Icons
 <table>
 <tr>
 <th>Common</th>
-<th>$${\color{Rare}Green}$$</th>
+<th>$${\color{Green}Rare}$$</th>
 <th><font color ="Blue">Super Rare</font></th>
 <th><font color ="Purple">Mythic</font></th>
 <th><font color ="Orange">Ancient</font></th>
