@@ -203,12 +203,15 @@ In Game interface:
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/In_Game_UI_Concept.png">
 <br>
-Pause Menu
+Pause Menu:
 <br>
-Inventory Menu
+
 <br>
-Equipment Menu
+Inventory & Equipment Menu:
 <br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Inventory_Menu_Concept.png">
+
+
 
 
 
