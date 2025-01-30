@@ -205,7 +205,7 @@ In Game interface:
 <br>
 Pause Menu:
 <br>
-
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Pause_Menu.png">
 <br>
 Inventory & Equipment Menu:
 <br>
@@ -300,7 +300,7 @@ Diamond Fishing Rod
 <br>
 <i>Bobbers:</i>
 <br>
-(Bobbers help with catching higher quality fish if you can't afford a better Rod.)
+(Bobbers help with catching higher quality fish if you can't afford a higher quality fishing Rod.)
 <br>
 Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png">
 <br>
