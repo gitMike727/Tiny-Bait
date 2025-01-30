@@ -92,6 +92,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Fishing Mechanics:</b>
 <ul>
     <li><i>Variety of Fish:</i> Diverse species of fish (Lake, Ocean, Deep Sea).</li>
+    <li><i>Fish quality:</i> Some fish are easier to catch then others depending on its quality.</li>
     <li><i>Day/Night Cycle:</i> Affects fish appearance of the game world.</li>
     <li><i>Bait:</i> Collect ingredients (worms,insects,lures) to attract specific fish.</li>
 </ul>
@@ -292,9 +293,27 @@ Diamond Fishing Rod
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_4.png">
 <br>
 <br>
-<i>Bobber:</i>
+<i>Bobbers:</i>
 <br>
-<img src ="https://file.garden/Z14ay7uwgmBSW3CE/Bobber_Set.png">
+Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png">
+<br>
+Pro Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_2.png">
+<br>
+Super Bobber <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Bobber_3.png">
+<br>
+Expert Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_4.png">
+<br>
+Ultimate Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_5.png">
+<br>
+Insanity Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_6.png">
+<br>
+Atomic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_7.png">
+<br>
+Cosmic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_8.png">
+
+
+
+
 
 
 </p>
@@ -332,6 +351,15 @@ Vehicle: Boat
 Character Customization
 </p>
 
+</p>
+
+<h2 align = left>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
+<u><i>13.Credits</i></u>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
+</h2>
+<p>
+Created by Michael Truong
 </p>
 
 
