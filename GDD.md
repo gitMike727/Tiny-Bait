@@ -180,11 +180,11 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
-<i>Locations:</i>
+<i>Building Locations:</i>
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Island_Level_Concept_1_With_location.png">
 <br>
-<i>Fishing Zones:</i>
+<i>Fishing Zones are highlighted in red boxes:</i>
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Fishing_Zones.png">
 </p>
@@ -199,17 +199,19 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 Main Menu:
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Title_Menu_Concept.png">
+<br>
+In Game interface:
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/In_Game_UI_Concept.png">
+<br>
 Pause Menu
 <br>
 Inventory Menu
 <br>
 Equipment Menu
 <br>
-EXP & Leveling system
-<br>
-In Game UI
-<br>
-Icons
+
+
 
 
 </p>
