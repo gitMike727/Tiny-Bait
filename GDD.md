@@ -67,6 +67,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <i>Legendary Master Fisherman:</i>
 <br>
 <b>Kanto</b>
+<br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Kanto_Master_Fisherman_Small.png">
 </p>
 <br>
