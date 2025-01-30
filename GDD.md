@@ -220,8 +220,8 @@ Icons
 
 <table>
 <tr>
-<th><font color ="Grey">Common</font></th>
-<th><font color ="Green">Rare</font></th>
+<th>Common</th>
+<th><code style = "color : green">Rare</code></th>
 <th><font color ="Blue">Super Rare</font></th>
 <th><font color ="Purple">Mythic</font></th>
 <th><font color ="Orange">Ancient</font></th>
