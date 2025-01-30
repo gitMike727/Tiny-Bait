@@ -24,8 +24,7 @@
 <b>Platform:</b> PC(Steam), Mobile (iOS, Android)
 </p>
 
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Title_Menu_with_Title_Concept.png">
-
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Title_Menu_with_Title_Concept_Smaller.png">
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>2.Executive Summary</i></u> 
