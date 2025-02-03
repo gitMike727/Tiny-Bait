@@ -4,7 +4,7 @@ Tools that I'm using for this project:
 <br>
 <a href = "https://www.spritefusion.com/editor" > Sprite Fusion </a> (Pixel Editor for Levels and Characters)
 <br>
-<a hred = "https://thorbjorn.itch.io/tiled">Tiled </a> (Tiled map editor)
+<a href = "https://thorbjorn.itch.io/tiled"> Tiled </a> (Tiled map editor)
 <br>
 <a href = "https://code.visualstudio.com/" > VS Code </a> (Edit design documents for Github)
 <br>
