@@ -151,6 +151,15 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li>"C" Key: Equipment Menu</li>
 </ul>
 <br>
+<b>Fisherman Ranks:</b>
+<ul>
+    <li><i>level 1-10:</i> Rookie Fisherman</li>
+    <li><i>level 11-25:</i> Apprentice Fisherman</li>
+    <li><i>level 25-40:</i> Professional Fisherman</li>
+    <li><i>level 41-55:</i> Master Fisherman</li>
+    <li><i>level 56-80:</i> Legendary Fisherman</li>
+<br>
+
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
