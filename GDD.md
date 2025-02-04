@@ -45,6 +45,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li>Obtain gold from selling fish.</li>
     <li>Spend gold to upgrade fishing rod and other fishing gear.</li>
     <li>Upgraded rods and bait can catch higher quality fish.</li>
+    <li>Show off your Fish collection to the towns people.</li>
 </ul>
 </p>
 
@@ -77,7 +78,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <ul>
     <li><i>Collect Species:</i> Catch different species of fish and show off your collection to your friends.</li>
     <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bait and fishing rod upgrades.</li>
-    <li><i>Buy Bait and Equipment:</i> The gold from selling fish can be used to buy bait, lures, fishing lines, and fishing rods.</li>
+    <li><i>Buy Bait and Equipment:</i> The gold from selling fish can be used to buy bobbers and fishing rods.</li>
 </ul>
 <br>
 <b>Game Currency:</b> 
@@ -90,8 +91,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <b>Character Progression:</b>
 <ul>
-    <li><i>Level up system:</i> Fishing and catching fish will level up the character and will unlock new fishing rods and bait ingredients.</li>
-    <li><i>Equipment system:</i> The character can equip fishing gear (fishing rods, lures, lines, bait types).
+    <li><i>Level up system:</i> Fishing and catching fish will level up the character and will unlock new fishing rods and fishing bobbers.</li>
+    <li><i>Equipment system:</i> The character can equip fishing gear (fishing rods and bobber).
     </li>
     <li><i>Achievement System:</i> Unlockable achievements for completing various challenges and milestones.</li>
 </ul>
