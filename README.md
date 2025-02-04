@@ -12,6 +12,8 @@ Tools that I'm using for this project:
 <br>
 <a href = "https://itch.io/"> Itch.io</a> (Game asset marketplace)
 <br>
+<a href = "https://ezgif.com/"> ezgif </a> (Sprite sheet cutter)
+<br>
 <a href = "https://filegarden.com/">File Garden</a> (Website where I stored image files for my concepts)
 <br>
 <a href = "https://pixlr.com/">Pixlr</a> (Image Editor)
@@ -22,6 +24,7 @@ Tools that I'm using for this project:
 <br>
 <a href = "https://www.fontspace.com/">FontSpace</a> (Custom fonts)
 <br>
+
 
 
 <br>
