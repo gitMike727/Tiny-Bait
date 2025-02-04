@@ -63,7 +63,6 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li><i>Variety of Fish:</i> Diverse species of fish (Lake, Ocean, Deep Sea).</li>
     <li><i>Fish quality:</i> Some fish are easier to catch then others depending on its quality.</li>
     <li><i>Day/Night Cycle:</i> Affects fish appearance of the game world.</li>
-    <li><i>Bait:</i> Collect ingredients (worms,insects,lures) to attract specific fish.</li>
 </ul>
 <br>
 <b>Exploration:</b> 
@@ -78,7 +77,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <ul>
     <li><i>Collect Species:</i> Catch different species of fish and show off your collection to your friends.</li>
     <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bait and fishing rod upgrades.</li>
-    <li><i>Buy Bait and Equipment:</i> The gold from selling fish can be used to buy bobbers and fishing rods.</li>
+    <li><i>Buy Upgrades:</i> The gold from selling fish can be used to buy bobbers and fishing rods.</li>
 </ul>
 <br>
 <b>Game Currency:</b> 
