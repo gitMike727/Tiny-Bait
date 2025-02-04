@@ -48,37 +48,6 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 </ul>
 </p>
 
-<h2 align = left>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>3.Concepts</i></u>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-</h2>
-
-<p>
-<i>Main Character:</i>
-<br>
-<b>Jack, The Apprentice</b>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Jack_The_Apprentice_Small.png">
-
-<br>
-<br>
-
-<i>Legendary Master Fisherman:</i>
-<br>
-<b>Kanto</b>
-<br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Kanto_Master_Fisherman_Small.png">
-</p>
-<br>
-<i>Game Currency:</i> 
-<br>
-<b>Red Coin</b>
-<br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Red_Coin.gif">
-<li>Obtain this game currency by catching fish and selling it to the fish market.</li>
-<li>Use this currency to buy fishing rods and bobbers.</li>
-
-
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
@@ -110,6 +79,14 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bait and fishing rod upgrades.</li>
     <li><i>Buy Bait and Equipment:</i> The gold from selling fish can be used to buy bait, lures, fishing lines, and fishing rods.</li>
 </ul>
+<br>
+<b>Game Currency:</b> 
+<br>
+<i>Red Silver</i>
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Red_Coin.gif">
+<li>Obtain this game currency by catching fish and selling it to the fish market.</li>
+<li>Use this currency to buy fishing rods and bobbers.</li>
 <br>
 <b>Character Progression:</b>
 <ul>
@@ -145,7 +122,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <p>
 <b>Main Character:</b> <i>Jack the Apprentice</i>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Jack_The_Apprentice_PLayer.png">
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Jack_The_Apprentice_Full.png">
 <br>
 <b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
 <br>
