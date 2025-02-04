@@ -9,6 +9,7 @@
 <p>
 <b>Project Title:</b> Tiny Bait
 <br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/mm_Title.png">
 <br>
 <b>Type:</b> Video Game
 <br>
@@ -24,7 +25,7 @@
 <b>Platform:</b> PC(Steam), Mobile (iOS, Android)
 </p>
 
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Title_Menu_with_Title_Concept_Smaller.png">
+
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 <u><i>2.Executive Summary</i></u> 
@@ -175,7 +176,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 Main Menu:
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Main_Title_Menu_Concept.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/main_Menu_Concept.png">
 <br>
 In Game interface:
 <br>
