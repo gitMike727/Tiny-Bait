@@ -125,6 +125,10 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Main Character:</b> <i>Jack the Apprentice</i>
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/front_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/back_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/left_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/right_Walking_Animation.gif">
+
 
 <br>
 <b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
