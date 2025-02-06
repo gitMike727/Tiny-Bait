@@ -307,7 +307,7 @@ Diamond Fishing Rod
 <br>
 (Bobbers help with catching higher quality fish if you can't afford a higher quality fishing Rod.)
 <br>
-Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png"> (+0% catch rate)
+Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png"> (+3% catch rate)
 <br>
 Pro Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_2.png"> (+5% catch rate)
 <br>
@@ -322,9 +322,12 @@ Insanity Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_6.png"> 
 Atomic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_7.png"> (+30% catch rate)
 <br>
 Cosmic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_8.png"> (+35% catch rate)
-
-
-
+<br>
+<br>
+<i>Upgraded Fishing Rods:</i>
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/upgraded_Rods_All.png">
+<br>
 
 
 
