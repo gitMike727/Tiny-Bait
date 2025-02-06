@@ -1,5 +1,7 @@
 <h1>My First attempt at solo developing a 2D pixel cozy fishing game.</h1>
 
+[Game Design Document](GDD.md) 
+
 Tools that I'm using for this project:
 <br>
 <a href = "https://www.spritefusion.com/editor" > Sprite Fusion </a> (Pixel Editor for Levels and Characters)
