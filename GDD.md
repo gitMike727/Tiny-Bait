@@ -7,9 +7,9 @@
 </h2>
 
 <p>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/mm_Title.png">
 <b>Project Title:</b> Tiny Bait
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/mm_Title.png">
 <br>
 <b>Type:</b> Video Game
 <br>
@@ -43,9 +43,10 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <ul>
     <li>Acquire fish and fishing gear.</li>
     <li>Explore an island and vast ocean.</li>
+    <li>Fish in a relaxing world.</li>
     <li>Obtain gold from selling fish.</li>
     <li>Spend gold to upgrade fishing rod and other fishing gear.</li>
-    <li>Upgraded rods and bait can catch higher quality fish.</li>
+    <li>Upgrading rods and bobbers can have a better chance at catching better fish.</li>
     <li>Show off your Fish collection to the towns people.</li>
 </ul>
 </p>
@@ -136,7 +137,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <b>Player Movement:</b> 
 <ul>
-    <li>W / Up Arrow / Spacebar</li>
+    <li>W / Up Arrow</li>
     <li>A / Left Arrow </li>
     <li>S / Down Arrow </li>
     <li>D / Right Arrow </li>
@@ -331,8 +332,9 @@ Ambient Music:
 <i>Shanty Town</i> (By FoolBoyMedia)
 <br>
 <br>
-Sound FX: walking, fishing, achievements, casting rod, reeling in fish, 
-menu buttons, ocean, birds, trees.
+<b>Sound Effects:</b>
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Screenshot%202025-02-06%20145301.png">
 <br>
 
 
@@ -344,11 +346,13 @@ menu buttons, ocean, birds, trees.
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
-Dialogoue
+<i>Dialogoue:</i> Custom dialogue between the characters to introduce origin stories.
 <br>
-Vehicle: Boat
 <br>
-Character Customization
+<i>Operable Vehicle:</i> Progress far enough in the game and get rewarded a boat. A vehicle that can be used to traverse into farther into the ocean.
+<br>
+<br>
+<i>Character Customization:</i> Customize your character with different wadrobes and accessories.
 </p>
 
 </p>
