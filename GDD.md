@@ -53,7 +53,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>4.Core Gameplay</i></u>
+<u><i>3.Core Gameplay</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 
 </h2>
@@ -100,7 +100,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>5.Milestone Progression</i></u>
+<u><i>4.Milestone Progression</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
@@ -117,7 +117,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>6.Characters</i></u>
+<u><i>5.Characters</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
@@ -168,7 +168,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>7.Game Level & Maps</i></u>
+<u><i>6.Game Level & Maps</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
@@ -183,7 +183,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>8.User Interface Designs</i></u>
+<u><i>7.User Interface Designs</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
@@ -213,7 +213,7 @@ Inventory & Equipment Menu:
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>9.Fish Species</i></u>
+<u><i>8.Fish Species</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
@@ -270,7 +270,7 @@ Inventory & Equipment Menu:
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>10.Fishing Equipment</i></u>
+<u><i>9.Fishing Equipment</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
@@ -319,7 +319,7 @@ Cosmic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_8.png">
 </p>
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>11.Game Music & Sound FX</i></u>
+<u><i>10.Game Music & Sound FX</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 
@@ -340,7 +340,7 @@ menu buttons, ocean, birds, trees.
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>12.Enhanced Features</i></u>
+<u><i>11.Enhanced Features</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
@@ -355,7 +355,7 @@ Character Customization
 
 <h2 align = left>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
-<u><i>13.Credits</i></u>
+<u><i>12.Credits</i></u>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/torch.gif">
 </h2>
 <p>
