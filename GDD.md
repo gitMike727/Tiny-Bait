@@ -140,6 +140,11 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
 <br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/k_Front_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/k_Back_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/k_Left_Walking_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/k_Right_Walking_Animation.gif">
+<br>
 <br>
 <b>Player Movement:</b> 
 <ul>
