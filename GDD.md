@@ -79,7 +79,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Life Simulation Elements:</b>
 <ul>
     <li><i>Collect Species:</i> Catch different species of fish and show off your collection to your friends.</li>
-    <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bait and fishing rod upgrades.</li>
+    <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bobbers and fishing rod upgrades.</li>
     <li><i>Buy Upgrades:</i> The gold from selling fish can be used to buy bobbers and fishing rods.</li>
 </ul>
 <br>
@@ -130,6 +130,11 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/back_Walking_Animation.gif">
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/left_Walking_Animation.gif">
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/right_Walking_Animation.gif">
+<br>
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/front_Fishing_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/back_Fishing_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/left_Fishing_Animation.gif">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/right_Fishing_Animation.gif">
 
 
 <br>
