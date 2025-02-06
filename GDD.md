@@ -192,7 +192,7 @@ Main Menu:
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/main_Menu_Concept.png">
 <br>
-In Game interface:
+HUD:
 <br>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/In_Game_UI_Concept.png">
 <br>
