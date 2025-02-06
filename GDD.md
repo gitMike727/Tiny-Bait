@@ -335,7 +335,7 @@ Ambient Music:
 <br>
 <b>Sound Effects:</b>
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Screenshot%202025-02-06%20145301.png">
+<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Sounds%20list">
 <br>
 
 
