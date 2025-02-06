@@ -8,6 +8,7 @@
 
 <p>
 <img src = "https://file.garden/Z14ay7uwgmBSW3CE/mm_Title.png">
+<br>
 <b>Project Title:</b> Tiny Bait
 <br>
 <br>
