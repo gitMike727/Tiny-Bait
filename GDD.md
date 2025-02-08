@@ -45,8 +45,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li>Acquire fish and fishing gear.</li>
     <li>Explore an island and vast ocean.</li>
     <li>Fish in a relaxing world.</li>
-    <li>Obtain gold from selling fish.</li>
-    <li>Spend gold to upgrade fishing rod and other fishing gear.</li>
+    <li>Obtain silver from selling fish.</li>
+    <li>Spend silver to upgrade fishing rod and other fishing gear.</li>
     <li>Upgrading rods and bobbers can have a better chance at catching better fish.</li>
     <li>Show off your Fish collection to the towns people.</li>
 </ul>
@@ -79,8 +79,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <b>Life Simulation Elements:</b>
 <ul>
     <li><i>Collect Species:</i> Catch different species of fish and show off your collection to your friends.</li>
-    <li><i>Sell Fish:</i> Trade fish you caught for gold at the fish market and spend your gold on bobbers and fishing rod upgrades.</li>
-    <li><i>Buy Upgrades:</i> The gold from selling fish can be used to buy bobbers and fishing rods.</li>
+    <li><i>Sell Fish:</i> Trade fish you caught for red silver at the fish market and spend your earnings on bobbers and fishing rod upgrades.</li>
+    <li><i>Buy Upgrades:</i> The red silver from selling fish can be used to buy bobbers and fishing rods.</li>
 </ul>
 <br>
 <b>Game Currency:</b> 
