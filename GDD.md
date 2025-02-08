@@ -363,7 +363,7 @@ Ambient Music:
 <i>Dialogoue:</i> Custom dialogue between the characters to introduce origin stories.
 <br>
 <br>
-<i>Operable Vehicle:</i> Progress far enough in the game and get rewarded a boat. A vehicle that can be used to traverse into farther into the ocean.
+<i>Operable Vehicle:</i>  A vehicle that can be used to traverse the ocean.
 <br>
 <br>
 <i>Character Customization:</i> Customize your character with different wadrobes and accessories.
