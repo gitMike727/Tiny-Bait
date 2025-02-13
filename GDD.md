@@ -287,43 +287,42 @@ Inventory & Equipment Menu:
 (The better the qaulity of the Rod, the higher quality fish you can catch.)
 <br>
 Wooden Fishing Rod
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_1.png"> (+0% catch rate)
+<img src = "assets/wood_Rod.png"> (+0% catch rate)
 <br>
 Iron Fishing Rod
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_2.png"> (+5% catch rate)
+<img src = "assets/iron_Rod.png"> (+5% catch rate)
 <br>
 Gold Fishing Rod
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_3.png"> (+15% catch rate)
+<img src = "assets/gold_Rod.png"> (+15% catch rate)
 <br>
 Diamond Fishing Rod
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Basic_Rod_4.png"> (+20% catch rate)
+<img src = "assets/diamond_Rod.png"> (+20% catch rate)
 <br>
 <br>
 <i>Bobbers:</i>
 <br>
 (Bobbers help with catching higher quality fish if you can't afford a higher quality fishing Rod.)
 <br>
-Stock Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_1.png"> (+3% catch rate)
+Stock Bobber <img src = "hassets/Bobber_1.png"> (+3% catch rate)
 <br>
-Pro Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_2.png"> (+5% catch rate)
+Pro Bobber <img src = "assets/Bobber_2.png"> (+5% catch rate)
 <br>
-Super Bobber <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Bobber_3.png"> (+10% catch rate)
+Super Bobber <img src ="assets/Bobber_3.png"> (+10% catch rate)
 <br>
-Expert Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_4.png"> (+15% catch rate)
+Expert Bobber <img src = "assets/Bobber_4.png"> (+15% catch rate)
 <br>
-Ultimate Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_5.png"> (+20% catch rate)
+Ultimate Bobber <img src = "assets/Bobber_5.png"> (+20% catch rate)
 <br>
-Insanity Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_6.png"> (+25% catch rate)
+Insanity Bobber <img src = "assets/Bobber_6.png"> (+25% catch rate)
 <br>
-Atomic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_7.png"> (+30% catch rate)
+Atomic Bobber <img src = "assets/Bobber_7.png"> (+30% catch rate)
 <br>
-Cosmic Bobber <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Bobber_8.png"> (+35% catch rate)
+Cosmic Bobber <img src = "assets/Bobber_8.png"> (+35% catch rate)
 <br>
 <br>
 <i>Upgraded Fishing Rods:</i>
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/upgraded_Rods_All.png">
-<br>
+<img src = "assets/upgraded_Rods_All.png">
 
 
 
@@ -344,7 +343,7 @@ Ambient Music:
 <br>
 <b>Sound Effects:</b>
 <br>
-<img src = "https://file.garden/Z14ay7uwgmBSW3CE/Sounds%20list">
+<img src = "assets/sounds.png">
 <br>
 
 
