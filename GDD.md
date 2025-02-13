@@ -185,7 +185,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <i>Building Locations:</i>
 <br>
-<img src = "">
+<img src = "assets/Island_Level_Concept_1_With_location.png">
 <br>
 
 </p>
@@ -199,19 +199,19 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 Main Menu:
 <br>
-<img src = "">
+<img src = "assets/main_Menu_Concept.png">
 <br>
 HUD:
 <br>
-<img src = "">
+<img src = "assets/In_Game_UI_Concept.png">
 <br>
 Pause Menu:
 <br>
-<img src = "">
+<img src = "assets/Pause_Menu.png">
 <br>
 Inventory & Equipment Menu:
 <br>
-<img src = "">
+<img src = "assets/Inventory_Menu_Concept_2.png">
 
 
 
@@ -238,7 +238,7 @@ Inventory & Equipment Menu:
 <th>$${\color{Orange}Mythic}$$</th>
 </tr>
 <tr>
-    <td>Mackerel <img src = https://file.garden/Z14ay7uwgmBSW3CE/Fish%20Species%2016x16/Mackerel_Fish.png ></td>
+    <td>Mackerel <img src = ""></td>
     <td>Tuna <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png"></td>
     <td>Cow Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png"></td>
     <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png"></td>
