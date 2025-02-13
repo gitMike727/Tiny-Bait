@@ -87,7 +87,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <i>Red Silver</i>
 <br>
-<img src = "">
+<img src = "assets/Red_Coin.gif">
 <li>Obtain this game currency by catching fish and selling it to the fish market.</li>
 <li>Use this currency to buy fishing rods and bobbers.</li>
 <br>
@@ -126,16 +126,23 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <b>Main Character:</b> <i>Jack the Apprentice</i>
 <br>
-<img src = "">
-
+<img src = "assets/front_Walking_Animation.gif">
+<img src = "assets/front_Fishing_Animation.gif">
+<img src = "assets/back_Walking_Animation.gif">
+<img src = "assets/back_Fishing_Animation.gif">
 <br>
-
+<img src = "assets/left_Walking_Animation.gif">
+<img src = "assets/left_Fishing_Animation.gif">
+<img src = "assets/right_Walking_Animation.gif">
+<img src = "assets/right_Fishing_Animation.gif">
 
 <br>
 <b>Legendary Master Fisherman:</b> <i>Kanto the Legendary Fisherman</i>
 <br>
-<img src = "">
-<img src = "">
+<img src = "assets/k_Right_Walking_Animation.gif">
+<img src = "assets/k_Back_Walking_Animation.gif">
+<img src = "assets/k_Front_Walking_Animation.gif">
+<img src = "assets/k_Left_Walking_Animation.gif">
 <br>
 <br>
 <b>Player Movement:</b> 
