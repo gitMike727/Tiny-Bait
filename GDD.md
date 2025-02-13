@@ -245,27 +245,26 @@ Inventory & Equipment Menu:
     <td>Axolotl <img src = "assets/axolotl.png"></td>
 </tr>
 <tr>
-    <td>Shrimp <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Shrimp.png"></td>
-    <td>Atlantic Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Atlantic_Bass.png"></td>
-    <td>Lion Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Lion_Fish.png"></td>
-    <td>Angel Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/AngelFish.png"></td>
-    <td>Angler Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Anglerfish.png"></td>
+    <td>Shrimp <img src ="assets/shrimp.png"></td>
+    <td>Atlantic Bass <img src = "assets/atlantic_Bass.png"></td>
+    <td>Lion Fish <img src = "assets/lion_Fish.png"></td>
+    <td>Angel Fish <img src = "assets/angel_Fish.png"></td>
+    <td>Angler Fish <img src = "assets/angler_Fish.png"></td>
 </tr>
 <tr>
-    <td>Tilapia <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tilapia.png"></td>
-    <td>Butterfly Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Butterfly_Fish.png"></td>
-    <td>Parrot Fish <img src = https://file.garden/Z14ay7uwgmBSW3CE/Parrot_Fish.png></td>
-    <td>King Salmon <img src = "https://file.garden/Z14ay7uwgmBSW3CE/King_Salmon.png"></td>
-    <td>Black Goldfish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Goldfish.png"></td>
+    <td>Tilapia <img src = "assets/tilapia.png"></td>
+    <td>Butterfly Fish <img src = "assets/butterfly_Fish.png"></td>
+    <td>Parrot Fish <img src = "assets/parrot_Fish.png"></td>
+    <td>King Salmon <img src = "assets/king_Salmon.png"></td>
+    <td>Black Goldfish <img src = "assets/black_Goldfish.png"></td>
 
 </tr>
 <tr>
-<td>Crab <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Crab.png"></td>
-<td>Salmon <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Salmon.png"></td>
-<td>Koi <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Koi.png"></td>
-<td>Piranha <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Piranha.png"></td>
-<td>Gray Shark <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Gray_Shark.png"></td>
-
+<td>Crab <img src = "assets/crab.png"></td>
+<td>Salmon <img src ="assets/salmon.png"></td>
+<td>Koi <img src = "assets/koi.png"></td>
+<td>Piranha <img src = "assets/piranha.png"></td>
+<td>Gray Shark <img src ="assets/gray_Shark.png">
 </tr>
 <tr>
 <td>Black Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Bass.png"></td>
