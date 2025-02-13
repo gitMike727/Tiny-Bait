@@ -303,7 +303,7 @@ Diamond Fishing Rod
 <br>
 (Bobbers help with catching higher quality fish if you can't afford a higher quality fishing Rod.)
 <br>
-Stock Bobber <img src = "hassets/Bobber_1.png"> (+3% catch rate)
+Stock Bobber <img src = "assets/Bobber_1.png"> (+3% catch rate)
 <br>
 Pro Bobber <img src = "assets/Bobber_2.png"> (+5% catch rate)
 <br>
