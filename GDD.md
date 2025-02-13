@@ -238,11 +238,11 @@ Inventory & Equipment Menu:
 <th>$${\color{Orange}Mythic}$$</th>
 </tr>
 <tr>
-    <td>Mackerel <img src = ""></td>
-    <td>Tuna <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Tuna.png"></td>
-    <td>Cow Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Cow_Fish.png"></td>
-    <td>Clown Fish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Clown_Fish.png"></td>
-    <td>Axolotl <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Axolotl.png"></td>
+    <td>Mackerel <img src = "assets/mackeral_Fish.png"></td>
+    <td>Tuna <img src = "assets/tuna.png"></td>
+    <td>Cow Fish <img src = "assets/cow_Fish.png"></td>
+    <td>Clown Fish <img src = "assets/clown_Fish.png"></td>
+    <td>Axolotl <img src = "assets/axolotl.png"></td>
 </tr>
 <tr>
     <td>Shrimp <img src ="https://file.garden/Z14ay7uwgmBSW3CE/Shrimp.png"></td>
