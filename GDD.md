@@ -267,12 +267,11 @@ Inventory & Equipment Menu:
 <td>Gray Shark <img src ="assets/gray_Shark.png">
 </tr>
 <tr>
-<td>Black Bass <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Black_Bass.png"></td>
-<td>Pufferfish <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Pufferfish.png"></td>
-<td>Octopus <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Octopus.png"></td>
-<td>Eel <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Eel.png"></td>
-<td>Blue Lobster <img src = "https://file.garden/Z14ay7uwgmBSW3CE/Blue_Lobster.png"></td>
-</tr>
+<td>Black Bass <img src = "assets/black_Bass.png"></td>
+<td>Pufferfish <img src = "assets/puffer_Fish.png"></td>
+<td>Octopus <img src = "assets/octopus.png"></td>
+<td>Eel <img src = "assets/eel.png"></td>
+<td>Blue Lobster <img src = "assets/blue_Lobster.png">
 
 
 </table>
