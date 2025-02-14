@@ -361,7 +361,7 @@ Ambient Music:
 <i>Operable Vehicle:</i>  A vehicle that can be used to traverse the ocean.
 <br>
 <br>
-<i>Character Customization:</i> Customize your character with different wadrobes and accessories.
+<i>Character Customization:</i> Customize your character with different wardrobes and accessories.
 </p>
 
 </p>
