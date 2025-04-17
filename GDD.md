@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-<img src = "assets/mm_Title.png">
+<img src = "assets/mm_Title2.png">
 <br>
 <b>Project Title:</b> Tiny Bait
 <br>
