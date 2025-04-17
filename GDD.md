@@ -70,7 +70,6 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <b>Exploration:</b> 
 <ul>
-    <li><i>Open World:</i> An island surrounded by the ocean waiting to be explored.</li>
     <li><i>Relaxing Ambiance:</i> Peaceful music, calming sound effects (birds, 
     ocean waves, gentle water sounds, rustling trees).</li>
     <li><i>Visual Style:</i> 2D Pixel art with a focus on soft colors, charming characters, and tropical nature.</li>
@@ -109,9 +108,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <i>February 13:</i> Game Design Document
 <br>
-<i>March 13:</i> Project Pitch - <a href="https://youtu.be/c78hT7TmWNg?si=-0jKltjP6liWPh5m">Video Link</a> 
+<i>March 13:</i> Project Pitch - <a href="https://youtu.be/c78hT7TmWNg?si=-0jKltjP6liWPh5m">YouTube Video Link</a> 
 <br>
-<i>April 17:</i> Prototype Presentation - <a href="https://youtu.be/1d3V-rCNBjU?si=YiNz0UADXcbCnX-z">Video Link</a>
+<i>April 17:</i> Prototype Presentation - <a href="https://youtu.be/1d3V-rCNBjU?si=YiNz0UADXcbCnX-z">YouTube Video Link</a>
 <br>
 <i>May 5:</i> Final Game
 </p>
