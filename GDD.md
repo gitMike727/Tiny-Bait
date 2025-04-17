@@ -16,6 +16,7 @@
 <br>
 <b>Genre:</b> 2D, Casual, Simulation, Life Sim
 <br>
+<b>Created using Godot Engine   
 <br>
 <b>Target Audience:</b> 
 <ul>
@@ -354,7 +355,7 @@ Ambient Music:
 <img src = "assets/torch.gif">
 </h2>
 <p>
-<i>Dialogoue:</i> Custom dialogue between the characters to introduce origin stories.
+<i>Dialogoue:</i> Custom dialogue between the characters to introduce origin stories. (In Progress)
 <br>
 <br>
 <i>Operable Vehicle:</i>  A vehicle that can be used to traverse the ocean.
