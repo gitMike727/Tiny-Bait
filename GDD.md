@@ -183,7 +183,8 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <i>Building Locations:</i>
 <br>
-<img src = "assets/Island_Level_Concept_1_With_location.png">
+<img src = "assets/UpdateMap.png">
+<img src = "assets/updateFishShop.png">
 <br>
 
 </p>
@@ -197,19 +198,19 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 Main Menu:
 <br>
-<img src = "assets/main_Menu_Concept.png">
+<img src = "assets/UpdateTitle.png">
 <br>
 HUD:
 <br>
-<img src = "assets/In_Game_UI_Concept.png">
+<img src = "assets/updateHUD.png">
 <br>
-Pause Menu:
+Bobber Mini-game:
 <br>
-<img src = "assets/Pause_Menu.png">
+<img src = "assets/UpdateFishGame.png">
 <br>
-Inventory & Equipment Menu:
+Inventory Menu:
 <br>
-<img src = "assets/Inventory_Menu_Concept_2.png">
+<img src = "assets/UpdateInv.png">
 
 
 
