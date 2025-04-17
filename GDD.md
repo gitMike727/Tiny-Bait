@@ -155,8 +155,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 
 <b>Player Interaction:</b> 
 <ul>
-    <li>Left Mouse Click: World Interaction</li>
-    <li>Right Mouse Click: Fishing</li>
+    <li>Space Bar: To Start Fishing</li>
 </ul>
 <br>
 
@@ -164,7 +163,6 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <ul>
     <li>"Esc" Key: Pause Menu</li>
     <li>"I" Key: Inventory Menu</li>
-    <li>"C" Key: Equipment Menu</li>
 </ul>
 <br>
 <b>Fisherman Ranks:</b>
