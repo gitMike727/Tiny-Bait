@@ -23,7 +23,7 @@
     <li>Players interested in fishing, nature, and cozy aesthetics.</li>
     <li>Casual gamers (13-35 years old).</li>
 </ul>
-<b>Platform:</b> PC(Steam), Mobile (iOS, Android)
+<b>Platform:</b> PC(Steam)
 </p>
 
 
@@ -43,7 +43,6 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <ul>
     <li>Acquire fish and fishing gear.</li>
-    <li>Explore an island and vast ocean.</li>
     <li>Fish in a relaxing world.</li>
     <li>Obtain silver from selling fish.</li>
     <li>Spend silver to upgrade fishing rod and other fishing gear.</li>
@@ -109,9 +108,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <i>February 13:</i> Game Design Document
 <br>
-<i>March 13:</i> Project Pitch
+<i>March 13:</i> Project Pitch - <a href="https://youtu.be/c78hT7TmWNg?si=-0jKltjP6liWPh5m">Video Link</a> 
 <br>
-<i>April 17:</i> Prototype Presentation
+<i>April 17:</i> Prototype Presentation - <a href="https://youtu.be/1d3V-rCNBjU?si=YiNz0UADXcbCnX-z">Video Link</a>
 <br>
 <i>May 5:</i> Final Game
 </p>
