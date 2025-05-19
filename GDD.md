@@ -43,12 +43,9 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <b>Gameplay Loop:</b> 
 <br>
 <ul>
-    <li>Acquire fish and fishing gear.</li>
-    <li>Fish in a relaxing world.</li>
-    <li>Obtain silver from selling fish.</li>
-    <li>Spend silver to upgrade fishing rod and other fishing gear.</li>
-    <li>Upgrading rods and bobbers can have a better chance at catching better fish.</li>
-    <li>Show off your Fish collection to the towns people.</li>
+    <li>Catch Fish</li>
+    <li>Sell Fish</li>
+    <li>Get Max profits</li>
 </ul>
 </p>
 
@@ -63,9 +60,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <p>
 <b>Fishing Mechanics:</b>
 <ul>
-    <li><i>Variety of Fish:</i> Diverse species of fish (Lake, Ocean, Deep Sea).</li>
     <li><i>Fish quality:</i> Some fish are easier to catch then others depending on its quality.</li>
-    <li><i>Day/Night Cycle:</i> Affects fish appearance of the game world.</li>
 </ul>
 <br>
 <b>Exploration:</b> 
@@ -75,27 +70,11 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
     <li><i>Visual Style:</i> 2D Pixel art with a focus on soft colors, charming characters, and tropical nature.</li>
 </ul>
 <br>
-<b>Life Simulation Elements:</b>
-<ul>
-    <li><i>Collect Species:</i> Catch different species of fish and show off your collection to your friends.</li>
-    <li><i>Sell Fish:</i> Trade fish you caught for red silver at the fish market and spend your earnings on bobbers and fishing rod upgrades.</li>
-    <li><i>Buy Upgrades:</i> The red silver from selling fish can be used to buy bobbers and fishing rods.</li>
 </ul>
-<br>
-<b>Game Currency:</b> 
-<br>
-<i>Red Silver</i>
-<br>
-<img src = "assets/Red_Coin.gif">
-<li>Obtain this game currency by catching fish and selling it to the fish market.</li>
-<li>Use this currency to buy fishing rods and bobbers.</li>
 <br>
 <b>Character Progression:</b>
 <ul>
-    <li><i>Level up system:</i> Fishing and catching fish will level up the character and will unlock new fishing rods and fishing bobbers.</li>
-    <li><i>Equipment system:</i> The character can equip fishing gear (fishing rods and bobber).
-    </li>
-    <li><i>Achievement System:</i> Unlockable achievements for completing various challenges and milestones.</li>
+    <li><i>Level up system:</i> Fishing will level up the character. </li>
 </ul>
 </p>
 
