@@ -112,7 +112,7 @@ fisherman, embarks on a challenging journey to prove his amazing skills.
 <br>
 <i>April 17:</i> Prototype Presentation - <a href="https://youtu.be/1d3V-rCNBjU?si=YiNz0UADXcbCnX-z">YouTube Video Link</a>
 <br>
-<i>May 5:</i> Final Game
+<i>May 5:</i> Final Game - <a href="https://youtu.be/GjBNvIcBCrs?si=g5N5GbvY43taRVrc">YouTube Video Link</a>
 </p>
 <br>
 
